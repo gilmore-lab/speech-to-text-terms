@@ -2,16 +2,16 @@
 title: "IBM-speech-to-text-package"
 author: "Andrea Seisler"
 date: "12/5/2018"
-output: html_document
+output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## IBM Speech to Text (STT) package  
 
-Document located: https://www.ibm.com/legal/us/en/?lnk=flg-tous-usen
+[IBM Watson Speech to Text](https://www.ibm.com/cloud/watson-speech-to-text)  
+- [IBM Terms of Use](https://www.ibm.com/legal/us/en/?lnk=flg-tous-usen)  
+
+----
 
 Terms of use
 Date: August 15, 2015
