@@ -9,8 +9,18 @@ output: github_document
 [Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/)  
 - [Google Cloud Terms Directory](https://cloud.google.com/product-terms/)  
 - [Google Cloud Platform Terms of Service](https://cloud.google.com/terms/)  
+- [Google Cloud Platform Service Specific Terms](https://cloud.google.com/terms/service-terms)  
 
 ----
+
+Service Specific Terms
+
+12. Google Cloud Platform Machine Learning Group
+The following terms apply only to Google Cloud Speech API, Google Cloud Vision API, Google Prediction API, and future Google Cloud Platform Machine Learning Services specifically listed in the "Google Cloud Platform Machine Learning Services Group" category on the Google Cloud Platform Services Summary page:
+
+Customer will not, and will not allow third parties to: (i) use these Services to create, train, or improve (directly or indirectly) a similar or competing product or service or (ii) integrate these Services with any applications for any embedded devices such as cars, TVs, appliances, or speakers without Google’s prior written permission. These Services can only be integrated with applications for the following personal computing devices: smartphones, tablets, laptops, and desktops. In addition to any other available remedies, Google may immediately suspend or terminate Customer’s use of these Services based on any suspected violation of these terms, and violation of these terms is deemed violation of Google’s Intellectual Property Rights. Customer will provide Google with any assistance Google requests to reasonably confirm compliance with these terms (including interviews with Customer employees and inspection of Customer source code, model training data, and engineering documentation). These terms will survive termination or expiration of the Agreement.
+
+-----
 
 Google Cloud Platform Terms
 Google Cloud Platform Terms of Service
