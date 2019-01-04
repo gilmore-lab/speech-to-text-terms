@@ -12,6 +12,8 @@ Terms of use for various Speech to Text Packages
 Other Options - Terms not logged and reviewed  
 
 - [Listen by Code Website](http://www.listenbycode.com/)   
-    - Terms of Service not on website. Emailed support@listenbycode.com to inquire on 1/4/2019.  
+    - [Listen by Code Terms](lbc-terms.md) Terms of Service not on website.  
+          - Emailed support@listenbycode.com to inquire on 1/4/2019.  
+          - Privacy Policy for Read the Docs was sent. Need to clarify relationship between the two.  
 - [RevSpeech API Website](https://www.rev.ai/)  
     - Terms of Service not on website. Emailed support@rev.ai to inquire on 1/4/2019.   
