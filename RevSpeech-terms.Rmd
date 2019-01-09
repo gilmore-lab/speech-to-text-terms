@@ -1,13 +1,13 @@
 ---
-title: "lbc-terms"
+title: "RevSpeech-terms"
 author: "Andrea Seisler"
 date: "1/4/2019"
 output: github_document
 ---
 
-[Listen by Code](http://www.listenbycode.com/)  
+[RevSpeech](https://www.rev.ai/)  
 - Terms of Use   
-- Listen by Code Privacy Statement  
+- RevSpeech Privacy Statement  
 - [Read the Docs Privacy Statement](https://docs.readthedocs.io/en/latest/privacy-policy.html)  
 
 ----

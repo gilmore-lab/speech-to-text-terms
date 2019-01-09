@@ -5,12 +5,12 @@ date: "1/9/2019"
 output: github_document
 ---
 
-###Terms of Use  
+###Terms of Use   
 
 Welcome, and thank for your intertest in ListenByCode Cooperation (“LBC”, “we”, ”our”, or “us” ). These terms of use govern your access to and use of the entire contents of the website available at https://www.listenbycode.com (“Website”) (including the Services) owned and operated by ListenByCode Cooperation. Please read these terms of use carefully before using the Website. They are a legal agreement between you and LBC. Using any part of the Website indicates that you accept these terms of use. If you do not accept these terms of use, please do not use the Website, cease downloading the Website, or leave the Website.
  
  
-1. The Website and the Services
+1. The Website and the Services  
 1.1 LBC offers and maintains the Website to provide one or more of the following Services to you:
 (a) automated transcription of audio files uploaded to our Website;
 (b) a audio/file format that we support are .WAV, .MP3, .PCM, .M4A;
@@ -41,25 +41,26 @@ Commercial use or publication of all or any item displayed is strictly prohibite
 
 ### Privacy Policy  
 
-This privacy policy covers ListenByCode Coopration (“LBC”, “we”, ”our”, or “us” ) and its website. It describes the information that we gather, how we use and disclose such information and the steps we take to protect such information. 
+This privacy policy covers ListenByCode Coopration (“LBC”, “we”, ”our”, or “us” ) and its website. It describes the information that we gather, how we use and disclose such information and the steps we take to protect such information.   
 
 By visiting the Site, you accept the privacy practices described in this Policy. 
-You can browse our website without disclosing any Personal Data to us and we will only collect and store information that you volunteer if you complete our enquiry form. 
+You can browse our website without disclosing any Personal Data to us and we will only collect and store information that you volunteer if you complete our enquiry form.   
 
-The Personal Data that we will collect will include:
-- Your name
-- Contact telephone number
-- Company name
-- E-mail address 
-We may use the Personal Data for our own marketing purposes, including market research and to keep you up to date with any offers or information regarding our business.
+The Personal Data that we will collect will include:  
+- Your name  
+- Contact telephone number  
+- Company name  
+- E-mail address   
 
-If you receive commercial emails from us or information regarding our business, you may unsubscribe at any time by following the instructions contained within the email so that you do not receive any further communications.
+We may use the Personal Data for our own marketing purposes, including market research and to keep you up to date with any offers or information regarding our business.  
+
+If you receive commercial emails from us or information regarding our business, you may unsubscribe at any time by following the instructions contained within the email so that you do not receive any further communications.  
 
 Information about you will not be shared or transferred to any other company without your express consent.
-We will make sure each file you upload will be deleted rapidly after you get results. And your transcript results will be deleted in three days. 
+We will make sure each file you upload will be deleted rapidly after you get results. And your transcript results will be deleted in three days.   
 
 Our website may contain links to third party websites operating their own terms and conditions and privacy policies. LBC is not responsible for the policies of any linked third party sites. 
-We respect your privacy rights therefore if you wish to amend Personal Data we hold about you or request that we delete the Personal Data held then you may contact us and we will have any reference to you deleted.
+We respect your privacy rights therefore if you wish to amend Personal Data we hold about you or request that we delete the Personal Data held then you may contact us and we will have any reference to you deleted.  
 
 
 

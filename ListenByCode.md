@@ -7,7 +7,8 @@ Andrea Seisler
 
 Welcome, and thank for your intertest in ListenByCode Cooperation (“LBC”, “we”, ”our”, or “us” ). These terms of use govern your access to and use of the entire contents of the website available at <https://www.listenbycode.com> (“Website”) (including the Services) owned and operated by ListenByCode Cooperation. Please read these terms of use carefully before using the Website. They are a legal agreement between you and LBC. Using any part of the Website indicates that you accept these terms of use. If you do not accept these terms of use, please do not use the Website, cease downloading the Website, or leave the Website.
 
-1.  The Website and the Services 1.1 LBC offers and maintains the Website to provide one or more of the following Services to you:
+1.  The Website and the Services
+    1.1 LBC offers and maintains the Website to provide one or more of the following Services to you:
 
 <!-- -->
 
@@ -30,7 +31,13 @@ This privacy policy covers ListenByCode Coopration (“LBC”, “we”, ”our�
 
 By visiting the Site, you accept the privacy practices described in this Policy. You can browse our website without disclosing any Personal Data to us and we will only collect and store information that you volunteer if you complete our enquiry form.
 
-The Personal Data that we will collect will include: - Your name - Contact telephone number - Company name - E-mail address We may use the Personal Data for our own marketing purposes, including market research and to keep you up to date with any offers or information regarding our business.
+The Personal Data that we will collect will include:
+- Your name
+- Contact telephone number
+- Company name
+- E-mail address
+
+We may use the Personal Data for our own marketing purposes, including market research and to keep you up to date with any offers or information regarding our business.
 
 If you receive commercial emails from us or information regarding our business, you may unsubscribe at any time by following the instructions contained within the email so that you do not receive any further communications.
 
