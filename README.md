@@ -26,7 +26,9 @@ Terms of use for various Speech to Text Packages
 - [RevSpeech API Website](https://www.rev.ai/)   
     - [RevSpeech API Customer Agreement](RevSpeech-terms.md) customer must have permission to use any data submitted to RevSpeech. See bolded italic text.  
         - Terms of Service not on website.  
-        - Customer Agreement was sent on 1/4/2019.  
+        - Customer Agreement was sent on 1/4/2019. 
+        
+- [CMU Sphinx Website](http://www.speech.cs.cmu.edu/sphinx/doc/Sphinx.html)  
+    - This is on github and isn't a service.  
       
 Other Options - Terms not logged and reviewed  
-- [CMU Sphinx Website](http://www.speech.cs.cmu.edu/sphinx/doc/Sphinx.html)  
